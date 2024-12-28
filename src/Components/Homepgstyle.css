@@ -1,0 +1,58 @@
+.navst{
+    color:#CFB9A5;
+    background-color: #556B2F;
+}
+.navbtn{
+    color:#CFB9A5;
+    background-color: #556B2F;
+    border:none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+}
+.homept{
+    overflow: hidden;
+    color:#CFB9A5;
+    position: relative;
+    margin:50px;
+    border-radius: 10px;
+}
+img{
+    display: block;
+}
+.textOverlay{
+    position: absolute;
+    color:#CFB9A5;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.686);
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    font-size: 36px;
+    font-weight: bold;
+
+
+}
+.abtpt{
+    color:#CFB9A5;
+    background-color: #2b2526;
+    height: 550px;
+    margin:50px;
+    border-radius: 10px;
+}
+.footer{
+    color:#CFB9A5;
+    background-color: #2b2526;
+    height: 600px;
+    padding-left: 100px;
+    margin:50px;
+    border-radius: 10px;
+}
+.subform{
+    color:#e2d2c2;
+    background-color: #425324;
+    border: none;
+}
+.continfo{
+    padding-left: 100px;
+}
